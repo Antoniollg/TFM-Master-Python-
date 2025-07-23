@@ -2,7 +2,7 @@
 
 ## 📄 Documento Marco
 Puedes consultar el documento final del TFM en formato PDF aquí:  
-👉 [Documento Marco (PDF)](documentacion/Trabajo_Fin_de_Master.pdf)
+👉 [Documento Marco (PDF)](documentacion/trabajo_fin_master.pdf)
 
 ## 💻 Código de la Aplicación
 El código fuente principal está en el archivo [app.py](app.py).
