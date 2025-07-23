@@ -13,7 +13,7 @@ Puedes ver un vídeo donde explico la aplicación aquí:
 
 ## 💻 Aplicación desplegada
 La aplicación está disponible para probarla online en:  
-👉 [Aplicación desplegada](AQUÍ_DEBES_PONER_EL_ENLACE_DE_DESPLIEGUE_REAL)
+👉 [Aplicación desplegada](http://localhost:8501/)
 
 ---
 
